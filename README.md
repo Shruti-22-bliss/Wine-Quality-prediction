@@ -1,2 +1,2 @@
 # Wine-Quality-prediction
-This project is created using google colab the dataset used for the prediction is taken from kaggle. It's a ML model for testing the accuracy and also to predict the quality of wine
+This project is created using google colab the dataset used for the prediction is taken from kaggle. It's a ML model for testing the accuracy and also to predict the quality of wine . The model is created by using various python library such as panda , numpy , sklearn, matplotlib and seaborn.I have train the model with train_test_split and from sklearn.ensemble I have imported RandomForestClassifier 
